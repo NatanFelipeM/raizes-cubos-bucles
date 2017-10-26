@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "raizes-cubos-bucles", "raizes-cubos-bucles\raizes-cubos-bucles.vbproj", "{BC762AE0-A12A-4482-ABF1-40FAF144F6CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC762AE0-A12A-4482-ABF1-40FAF144F6CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC762AE0-A12A-4482-ABF1-40FAF144F6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC762AE0-A12A-4482-ABF1-40FAF144F6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC762AE0-A12A-4482-ABF1-40FAF144F6CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1F470E9-9E20-4397-A0A3-E90244A2B24F}
+	EndGlobalSection
+EndGlobal
